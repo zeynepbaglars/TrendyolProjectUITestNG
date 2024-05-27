@@ -119,4 +119,5 @@ public class Elements extends Methods {
     @FindBy(css = "[id='logo']")
     WebElement trendyolHome;
 
+
 }
